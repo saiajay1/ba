@@ -1,1 +1,9 @@
+streamlit
 spacy
+PyPDF2
+python-docx
+langchain
+sentence-transformers
+chromadb
+transformers
+torch
